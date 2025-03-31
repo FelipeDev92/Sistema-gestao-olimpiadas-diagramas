@@ -58,3 +58,10 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma solução proposta para coorde
 - **Como:** Organizador
 - **Quero:** Registrar os resultados das competições (definindo primeiro, segundo e terceiro lugares) e gerar relatórios de medalhas.
 - **Para:** Acompanhar o desempenho dos países e manter o controle da competição de forma transparente.
+
+---
+
+## Projeto Figma
+
+https://www.figma.com/design/yhrlRF01AzBGKPwyqmsoHp/Untitled?node-id=0-1&p=f&t=YIO1Ny3k2OcQwLed-0
+
